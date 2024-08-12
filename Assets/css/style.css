@@ -116,3 +116,29 @@ section {
     font-style: 20px;
 }
 /* what we do style end */
+
+/* what you do style start */
+.steps {
+    text-align: center;
+    background: lightgrey;
+}
+.steps div {
+    margin-bottom: 80px;
+}
+.steps img {
+    width: 15%;
+    margin: 10px 0;
+}
+.steps h3 {
+    color: purple;
+    font-style: 46px;
+    margin-top: 10px;
+}
+.steps span {
+    font-size: 38px;
+}
+.steps p {
+    color: indigo;
+    font-style: 23px;
+}
+/* what you do style end */
