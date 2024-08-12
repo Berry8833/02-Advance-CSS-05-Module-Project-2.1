@@ -218,3 +218,25 @@ section {
     color: darkgreen;
 }
 /* reach out style end */
+
+/* footer style start */
+footer {
+    background-color: lightblue;
+    padding: 40px 35px;
+    width: 100%;
+}
+footer h2 {
+    display: inline;
+    color:darkgreen;
+    font-style: 30px;
+    margin: 0;
+}
+footer div {
+    float: right;
+    line-height: 1.5;
+    text-align: right;
+}
+footer a {
+    color: blue;
+}
+/* end footer style */
