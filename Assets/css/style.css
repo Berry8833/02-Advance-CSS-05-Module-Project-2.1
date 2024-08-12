@@ -86,3 +86,33 @@ section {
     font-size: 16px;
 }
 /* hero styles end */
+
+/* section title styles start */
+.section title {
+    font-style: 55px;
+    display: inline-block;
+    padding: 0 100px 20px 100px;
+    border-bottom: 3px solid;
+    margin-bottom: 35px;
+    color: indigo;
+}
+.primary-border {
+    border-color: yellowgreen;
+}
+.secondary-border {
+    border-color: teal;
+}
+/* section title style end */
+
+/* what we do section start */
+.intro {
+    text-align: center;
+}
+.intro p {
+    line-height: 1.7;
+    color: darkgreen;
+    width: 80%;
+    margin: 0 auto;
+    font-style: 20px;
+}
+/* what we do style end */
